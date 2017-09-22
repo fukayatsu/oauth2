@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'faraday', '~> 0.9.2', :platforms => [:jruby_18, :ruby_18]
+gem 'faraday', '~> 0.13', :platforms => [:jruby_18, :ruby_18]
 gem 'jwt', '< 1.5.2', :platforms => [:jruby_18, :ruby_18]
 gem 'rake', '< 11.0'
 gem 'rdoc', '~> 4.2.2'
